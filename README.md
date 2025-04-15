@@ -11,9 +11,9 @@ This is the International standard for Temperature conversations
 -Ensure you have Python 3.6 installed 
 -it can be opened with jubiter Notebook/VS Code
 
-# Authors b
+# Authors 
  Created by: Y Ndokweni
  Student number: 25302477
 
  # Contact Information
- You can contact the developer at: 25302477@stadion.ac.za
+ You can contact the developer at: 25302477@stadio.ac.za
